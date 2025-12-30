@@ -4,5 +4,5 @@ This project analyzes five years of San Francisco building permit data, covering
 Urban growth in San Francisco places uneven pressure on housing, infrastructure, and public services. However, there is limited neighborhood-level analysis that clearly shows where construction activity is most concentrated and how development pressure changes over time. This project addresses the challenge of using building permit data to identify high-pressure neighborhoods, assess concentration patterns, and distinguish sustained development trends from short-term construction surges to support data-driven urban planning decisions.
 # Tools Used
 Jupyter Notebook
-## link to dataset
+## Link To Dataset
 https://www.kaggle.com/datasets/aparnashastry/building-permit-applications-data
