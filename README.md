@@ -1,0 +1,2 @@
+# Mapping-Urban-Development-Pressure-in-San-Francisco-Through-Building-Permits
+This project analyzes five years of San Francisco building permit data, covering nearly 200,000 records from 2013 to 2018. Using permit volume as a proxy for development pressure, it identifies high-activity neighborhoods, examines concentration patterns, and analyzes time trends to reveal sustained growth areas and emerging development hotspots.
